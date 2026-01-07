@@ -8,7 +8,6 @@ body {
   background-color: black;
 }
 
-/* ===== Layout ===== */
 .main {
   display: flex;
   height: 100vh;
@@ -27,7 +26,7 @@ body {
   flex: 1;
   border-radius: 1rem;
   overflow: scroll;
-  padding: 0 1.5rem; /* small polish so content isn't glued to edge */
+  padding: 0 1.5rem;
 }
 
 .music-player {
